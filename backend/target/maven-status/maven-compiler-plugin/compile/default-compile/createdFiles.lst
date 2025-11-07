@@ -1,5 +1,0 @@
-com\godigital\backend\BackendApplication.class
-com\godigital\backend\repository\PacienteRepository.class
-com\godigital\backend\models\Paciente.class
-com\godigital\backend\models\Genero.class
-com\godigital\backend\SecurityConfig.class
